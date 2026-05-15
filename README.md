@@ -97,7 +97,7 @@ At the infrastructure level, the project demonstrates how modern AI applications
 
 ## Architecture Workflow
 
-![AI Travel Planner Workflow](AI+travel+planner+Workflow.png)
+![AI Travel Planner Workflow](ai-travel-planner-workflow.png)
 
 ---
 
