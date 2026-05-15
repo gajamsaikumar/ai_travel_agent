@@ -4,7 +4,7 @@
 
 The AI Travel Planner is an intelligent travel planning application that helps users generate personalised travel itineraries and destination recommendations using large language models.
 
-Beyond trip planning, this project demonstrates how an AI application can be deployed in a production-style environment using modern LLMOps and DevOps practices including containerisation, Kubernetes orchestration, cloud deployment, and observability monitoring.
+Beyond trip planning, this project demonstrates how an AI application can be deployed in a production-style environment using modern LLMOps practices including containerisation, Kubernetes orchestration, cloud deployment, and observability monitoring.
 
 The goal was to combine AI application development with real-world deployment engineering.
 
