@@ -1,4 +1,4 @@
-# AI Document Agent with DevOps Pipeline
+# AI Travel Agent
 
 A production-style AI backend system integrated with a full DevOps pipeline, demonstrating deployment, monitoring, and scalable infrastructure using modern cloud and container technologies.
 
