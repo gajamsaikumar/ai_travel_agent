@@ -63,7 +63,7 @@ At the infrastructure level, the project demonstrates how modern AI applications
 - LLM API Integration
 - Prompt Engineering
 
-### DevOps / LLMOps
+### LLMOps
 - Docker
 - Kubernetes
 - Minikube
